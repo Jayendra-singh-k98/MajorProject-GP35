@@ -1,0 +1,4 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+body { @apply bg-green-50 text-green-900; font-family: system-ui, sans-serif; }
+.dark body { @apply bg-green-950 text-green-50; }
