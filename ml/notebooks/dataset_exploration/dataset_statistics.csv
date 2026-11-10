@@ -1,0 +1,10 @@
+Metric,Value
+Number of Classes,38
+Training Images,70295
+Validation Images,17572
+Total Images,87867
+Average Images per Class,2312.29
+Maximum Training Images,Soybean___healthy
+Minimum Training Images,Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot
+Training Percentage,80.0
+Validation Percentage,20.0
